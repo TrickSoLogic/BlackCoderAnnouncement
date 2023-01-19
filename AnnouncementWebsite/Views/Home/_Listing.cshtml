@@ -1,0 +1,43 @@
+﻿@model BlackCoderAnnouncement.ViewModels.AnnouncementsListingModel
+
+@if (Model != null && Model.Announcements != null && Model.Announcements.Any())
+{
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">DateAdded</th>
+            <th scope="col">Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        @foreach (var announcement in Model.Announcements)
+        {
+            <tr>
+                <td>
+                    @announcement.Title
+                </td>
+                <td>
+                    @announcement.Description
+                </td>
+                <td>
+                    @announcement.DateAdded
+                </td>
+                <td>
+                    <button data-href="@Url.Action("Action", "Home", new { Id = announcement.Id })" type="button" class="data-btn btn btn-primary" data-toggle="modal" data-target="#actionModal"><i class="fas fa-edit mr-1"></i> Edit</button>
+                    <button data-href="@Url.Action("Delete", "Home", new { Id = announcement.Id })" type="button" class="data-btn btn btn-danger" data-toggle="modal" data-target="#actionModal"><i class="fas fa-trash-alt mr-1"></i> Delete</button>
+                </td>
+            </tr>
+        }
+
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning" role="alert">
+        Sorry! No records exist.
+    </div>
+}
