@@ -1,0 +1,273 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\css\\simple-sidebar.css",
+      "PackagePath": "staticwebassets\\css\\simple-sidebar.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AnnouncementWebsite-main\\AnnouncementWebsite\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlackCoderAnnouncement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlackCoderAnnouncement.props",
+      "PackagePath": "build\\BlackCoderAnnouncement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlackCoderAnnouncement.props",
+      "PackagePath": "buildMultiTargeting\\BlackCoderAnnouncement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlackCoderAnnouncement.props",
+      "PackagePath": "buildTransitive\\BlackCoderAnnouncement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
